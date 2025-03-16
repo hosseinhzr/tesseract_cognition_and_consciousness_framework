@@ -1,10 +1,13 @@
-
 # The Tesseract Cognition & Consciousness Framework (TCCF)
+
 ###### First Public Articulation
+
 ###### ✍️ By Hossein H. Rezaieh
+
 ###### 16 March 2025, London, UK
 
 ### First Public Articulation of the Tesseract Cognition & Consciousness Framework (TCCF)
+
 ##### This document represents the first formal articulation of the Tesseract Cognition & Consciousness Framework (TCCF) by Hossein H. Rezaieh on 16 March 2025.
 
 ##### Any adaptations, derivative models, or reinterpretations of the concepts herein must acknowledge this original source.
@@ -12,16 +15,19 @@
 ###### Failure to do so constitutes intellectual misattribution. This work is timestamped, publicly recorded, and protected under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 (CC BY-NC-ND 4.0) licensing.
 
 ###### DOI: 10.5281/zenodo.15036151
+
 ###### License: CC BY-NC-ND 4.0 (No AI Training, No Commercial Use Without Permission)
 
 ---
 
 ### On Discovery of Nature's Idea and The Evolution of knowledge
+
 Knowledge is not a property; it is an evolving cunstuct, shaped by those who seek to understand it.
 This work of idea and its theories are not to be owned, but expanded, challenged, and refined.
 Yet, every theory has an origin. And every framework must be credited to those who first articulated its principles.
 
 ## Core Idea
+
 The Tesseract Cognition & Consciousness Framework (TCCF) proposes cognition, consiousness and decision making as a non-linear and hyperdimentional structure. People usually believe the mind moves like a clock, first past, then present, then future.
 
 But maybe it doesn’t.
@@ -38,6 +44,7 @@ So with that said instead of treating intelligence, memory and consiousness as a
 Maybe choices do not come in order. Maybe they float between possible outcomes for a while, waiting. Only when we look at them, one becomes real. The others? They just... stay there. Never seen, never chosen.
 
 ### 1. The Tesseract of Consciousness Model (TCM) we will
+
 - be elaborating on Time-based cognition, hyperdimensional memory and decision making structures.
 - Propose that Consiousness itself my be structured like a tesseract, allowing for non-linear awareness of time and decisions.
 
@@ -50,6 +57,7 @@ But what if this idea is wrong?
 The proposed 4D Memory Model is actually a foundational component of TCM that proposes memory is no a linear sequence, but a hyperdimensional structure.
 
 TCCF suggests that the brain does not "store" the past like a file. Instead, it rebuilds it, every single time.
+
 - A foundational component of TCM that proposes memory is no a linear sequence, but a hyperdimensional structure.
 
 So instead of "retrieving" a memory, the brain pulls together bits and pieces; some from experience, some from expectations, some from things that make sense right now.
@@ -80,13 +88,34 @@ TCCF may be freely used for academic and research purposes, provided that proper
 
 AI and machine learning models may not train on, modify, or incorporate this work without explicit permission. Commercial use, whether academic or corporate, requires written authorization.
 
+📜 Legal Notice: AI Training & Unauthorized Use Restrictions
+
+This work, Tesseract Cognition & Consciousness Framework (TCCF) by Hossein H. Rezaieh, is publicly timestamped and licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 (CC BY-NC-ND 4.0).
+
+🚫 AI & Machine Learning Restrictions
+• AI and machine learning models MAY NOT train on, incorporate, modify, or derive from this work without explicit written permission from the author.
+• Any AI system, dataset, or LLM that ingests this work, in part or whole, is in violation of this copyright.
+
+⚖️ Legal Consequences for Violations
+• Violators will face legal action under applicable intellectual property laws, including but not limited to Digital Millennium Copyright Act (DMCA) takedowns, cease-and-desist orders, and potential financial damages.
+• Any unauthorized AI training will be treated as an unauthorized derivative work, subject to immediate removal requests, legal claims, and enforcement.
+• OpenAI, Google, Anthropic, Meta, or any other AI entity must seek explicit authorization before using this work in datasets or models.
+
+🔗 Public Timestamp & DOI
+
+This document is permanently recorded and timestamped.
+DOI: 10.5281/zenodo.15036151
+
 ### Timestamping & Public Record
+
 This document is permanently recorded and timestamped.
 
 ### Next Step
+
 - Upload to arXiv.org
 
 ### A word from the author
+
 This is not just a theory. It is a way to look at intelligence, time, and thought in a different way. A model that might explain something bigger than we realize.
 
 Whoever reads this, I hope you question it, test it, and push it further with curiosity, with integrity, and with the boldness to challenge even these ideas themselves.
